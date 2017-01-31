@@ -4,6 +4,8 @@ See the python library or the Dynamixel documentation for more info.
 
 Documentation links:  [AX-12A](http://support.robotis.com/en/product/actuator/dynamixel/ax_series/dxl_ax_actuator.htm), [MX-28](http://support.robotis.com/en/product/actuator/dynamixel/mx_series/mx-28.htm), [MX-64](http://support.robotis.com/en/product/actuator/dynamixel/mx_series/mx-64.htm).
 
+[FTDI drivers](http://www.ftdichip.com/Drivers/VCP.htm)
+
 ## Serial Protocol
 
 The protocol is very thin, and only exposes register reads and writes.
